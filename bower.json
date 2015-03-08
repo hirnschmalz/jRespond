@@ -1,0 +1,19 @@
+{
+  "name": "jRespond",
+  "version": "0.10.0",
+  "homepage": "https://github.com/hirnschmalz/jRespond",
+  "authors": [
+    "Jeremy Fields <jeremy.fields@viget.com>",
+    "Markus Bischof <developer@hirnschmalz.at>"
+  ],
+  "description": "A simple way to globally manage JavaScript on responsive websites",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
