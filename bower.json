@@ -8,6 +8,14 @@
   ],
   "description": "A simple way to globally manage JavaScript on responsive websites",
   "main": "index.html",
+  "keywords": [
+      "javascript",
+      "js",
+      "responsive",
+      "responsive web design",
+      "rwd",
+      "breakpoint"
+  ],
   "license": "MIT",
   "ignore": [
     "**/.*",
